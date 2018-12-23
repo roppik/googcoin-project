@@ -1,0 +1,2 @@
+# googcoin-project
+GoogCoin
